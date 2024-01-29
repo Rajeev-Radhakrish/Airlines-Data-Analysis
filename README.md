@@ -1,4 +1,4 @@
-# Airlines-Data-Analysis
+# Airlines Data Analysis
 
 ## Introduction
 This project focuses on analyzing revenue data of an airline company majorly using SQL and Python. The primary objective is to address the challenges faced by the airline industry due to various factors such as environmental regulations, flight taxes, fuel prices, and labor costs. By conducting a thorough analysis on the data, the aim is to increase the occupancy rate and thereby improve profitability.
